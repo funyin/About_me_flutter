@@ -1,4 +1,4 @@
-View on [code pen](https://codepen.io/funyin/pen/xxqypgW)
+View on [code pen](https://codepen.io/funyin/full/xxqypgW)
 
 
 
